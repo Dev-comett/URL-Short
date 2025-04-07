@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="banner.png" alt="URL Tools Hub Banner" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Made%20with-Python-blue?logo=python" alt="Python Badge"></a>
+  <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b?logo=streamlit" alt="Streamlit Badge"></a>
+  <a href="https://github.com/Dev-comett/URL-Short/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License Badge"></a>
+  <a href="https://tinyurl.com/2xjo2ckz"><img src="https://img.shields.io/badge/Deployed%20on-Streamlit-success?logo=streamlit" alt="Streamlit Deploy Badge"></a>
+</p>
+
+
+
 # 🔗 URL Tools Hub
 
 A powerful and beautifully interactive **Streamlit web app** for URL shortening and more. It offers:
